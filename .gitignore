@@ -130,3 +130,8 @@ dmypy.json
 
 datasets/
 datasets.zip
+
+/code/version_1/catboost_info/
+/code/version_2/catboost_info/
+
+/catboost_info/
